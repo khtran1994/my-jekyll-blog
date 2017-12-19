@@ -17,7 +17,7 @@ title: My awesome Blog
 email: ifixitpro994@gmail.com
 description:  "This is my blog about personal projects during class and my free time."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://127.0.0.1:4000/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://khtran1994.github.io/my-jekyll-blog" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  khtran1994
 
