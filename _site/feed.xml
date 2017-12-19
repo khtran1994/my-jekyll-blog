@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My awesome Blog</title>
+    <description>This is my blog about personal projects during class and my free time.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 19 Dec 2017 16:44:12 -0600</pubDate>
+    <lastBuildDate>Tue, 19 Dec 2017 16:44:12 -0600</lastBuildDate>
+    <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>simple blog 1</title>
+        <description>&lt;p&gt;Some of the benefits of a static website generators are that&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Simple&lt;/strong&gt;- make building and maintaing websites incredibly simple, easier to maintain ( no database, no server-side scripts)
+-&lt;strong&gt;fast&lt;/strong&gt;-statuc files can ve served fast. There is no database or templating layer that slows down requests.
+-&lt;strong&gt;Secure&lt;/strong&gt;- as they do not contain dynamic content
+-uses &lt;strong&gt;markdown&lt;/strong&gt;
+-&lt;strong&gt;previewable&lt;/strong&gt;- because static sites are developed locally, you can play around with the site to your heart’s content without affecting the slive site.&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Tue, 19 Dec 2017 02:59:00 -0600</pubDate>
+        <link>http://localhost:4000/jekyll/simple-blog.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/simple-blog.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+      </item>
+    
+      <item>
+        <title>simple blog 3</title>
+        <description>&lt;p&gt;Some of the benefits of a static website generators are that&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Simple&lt;/strong&gt;- make building and maintaing websites incredibly simple, easier to maintain ( no database, no server-side scripts)
+-&lt;strong&gt;fast&lt;/strong&gt;-statuc files can ve served fast. There is no database or templating layer that slows down requests.
+-&lt;strong&gt;Secure&lt;/strong&gt;- as they do not contain dynamic content
+-uses &lt;strong&gt;markdown&lt;/strong&gt;
+-&lt;strong&gt;previewable&lt;/strong&gt;- because static sites are developed locally, you can play around with the site to your heart’s content without affecting the slive site.&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Tue, 19 Dec 2017 02:59:00 -0600</pubDate>
+        <link>http://localhost:4000/jekyll/simple-blog.2.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/simple-blog.2.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+      </item>
+    
+      <item>
+        <title>simple blog 2</title>
+        <description>&lt;p&gt;Some of the benefits of a static website generators are that&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Simple&lt;/strong&gt;- make building and maintaing websites incredibly simple, easier to maintain ( no database, no server-side scripts)
+-&lt;strong&gt;fast&lt;/strong&gt;-statuc files can ve served fast. There is no database or templating layer that slows down requests.
+-&lt;strong&gt;Secure&lt;/strong&gt;- as they do not contain dynamic content
+-uses &lt;strong&gt;markdown&lt;/strong&gt;
+-&lt;strong&gt;previewable&lt;/strong&gt;- because static sites are developed locally, you can play around with the site to your heart’s content without affecting the slive site.&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Tue, 19 Dec 2017 02:59:00 -0600</pubDate>
+        <link>http://localhost:4000/jekyll/simple-blog.1.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/simple-blog.1.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+      </item>
+    
+  </channel>
+</rss>
