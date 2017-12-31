@@ -5,8 +5,10 @@
 /*--
 	Common Css
 --*/
-background-image: url('http://i.imgur.com/BJP2Q1j.jpg')
- 
+.class {
+	background: url("../img/cloud.jpg") no-repeat center center;
+	background-size: cover;
+}
 body {
   font-family: 'Open Sans', sans-serif;
   -webkit-font-smoothing: antialiased;
