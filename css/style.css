@@ -5,13 +5,12 @@
 /*--
 	Common Css
 --*/
-.class {
-	background: url("../img/cloud.jpg") no-repeat center center;
-	background-size: cover;
-}
+
 body {
   font-family: 'Open Sans', sans-serif;
   -webkit-font-smoothing: antialiased;
+   background-image: url('../img/cloud.jpg')
+
 }
 h1,
 h2,
