@@ -6,8 +6,6 @@
 	Common Css
 --*/
 .wrapper {
-  width:150px;
-  height:150px;
   margin: 25px auto;
   overflow: hidden;
   border-radius:50%;
